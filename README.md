@@ -3,6 +3,7 @@
 Sou uma desenvolvedora front-end em constante evolução e com um objetivo claro: me tornar uma **Full Stack**. Sou movida pela ambição e pela ousadia; adoro projetos que me tiram da zona de conforto e me desafiam a superar limites. 
 
 Gosto de botar a mão na massa, quebrar a cabeça com desafios reais e aprender algo novo todos os dias. 🚀
+
 ---
 
 ### 🛠 Tecnologias e Ferramentas
