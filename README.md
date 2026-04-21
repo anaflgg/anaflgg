@@ -1,9 +1,8 @@
 # Olá, eu sou a Ana! 👋
 
-Sou uma desenvolvedora front-end em constante evolução e com um objetivo claro: me tornar uma **Full Stack** de sucesso. Sou movida pela ambição e pela ousadia; adoro projetos que me tiram da zona de conforto e me desafiam a superar limites. 
+Sou uma desenvolvedora front-end em constante evolução e com um objetivo claro: me tornar uma **Full Stack**. Sou movida pela ambição e pela ousadia; adoro projetos que me tiram da zona de conforto e me desafiam a superar limites. 
 
-Para mim, programar é a arte de transformar ideias em códigos reais e criar soluções inovadoras. Se o projeto for difícil, é aí que eu quero estar. 🚀
-
+Gosto de botar a mão na massa, quebrar a cabeça com desafios reais e aprender algo novo todos os dias. 🚀
 ---
 
 ### 🛠 Tecnologias e Ferramentas
