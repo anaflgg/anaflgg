@@ -8,7 +8,15 @@ Gosto de botar a mão na massa, quebrar a cabeça com desafios reais e aprender 
 
 ### 🛠 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,figma,notion)](https://skillicons.dev)
+| | Tecnologia | O que uso |
+|---|---|---|
+| ![HTML](https://skillicons.dev/icons?i=html) | **HTML5** | Semântica, acessibilidade, estrutura |
+| ![CSS](https://skillicons.dev/icons?i=css) | **CSS3** | Flexbox, Grid, Mobile First, responsividade |
+| ![JS](https://skillicons.dev/icons?i=js) | **JavaScript** | Manipulação de DOM, consumo de API, lógica |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) | **Tailwind CSS** | Estilização utilitária, design system |
+| ![Git](https://skillicons.dev/icons?i=git) | **Git** | Versionamento, commits, branches |
+| ![Figma](https://skillicons.dev/icons?i=figma) | **Figma** | Prototipação, referência de design |
+| ![Notion](https://skillicons.dev/icons?i=notion) | **Notion** | Organização e planejamento |
 
 ---
 
