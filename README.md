@@ -8,13 +8,7 @@ Gosto de botar a mão na massa, quebrar a cabeça com desafios reais e aprender 
 
 ### 🛠 Tecnologias e Ferramentas
 
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,figma,notion)](https://skillicons.dev)
 
 ---
 
