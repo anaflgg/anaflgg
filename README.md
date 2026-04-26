@@ -1,6 +1,6 @@
 # Olá, eu sou a Ana! 👋
 
-Cresci vendo meus irmãos programarem e, em algum momento, decidi que também queria criar — não só consumir. Foi assim que a programação entrou na minha vida.
+Cresci vendo meus irmãos programarem e, em algum momento, decidi que também queria criar, não só consumir. Foi assim que a programação entrou na minha vida.
 
 Me importo com design, detalhes visuais e aquele toque criativo que faz um projeto sair do óbvio.
 
