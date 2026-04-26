@@ -1,22 +1,18 @@
 # Olá, eu sou a Ana! 👋
 
-Sou uma desenvolvedora front-end em constante evolução e com um objetivo claro: me tornar uma **Full Stack**. Sou movida pela ambição e pela ousadia; adoro projetos que me tiram da zona de conforto e me desafiam a superar limites. 
+Cresci vendo meus irmãos programarem e, em algum momento, decidi que também queria criar — não só consumir. Foi assim que a programação entrou na minha vida.
 
-Gosto de botar a mão na massa, quebrar a cabeça com desafios reais e aprender algo novo todos os dias. 🚀
+Me importo com design, detalhes visuais e aquele toque criativo que faz um projeto sair do óbvio.
+
+Curiosidade e consistência são o que me movem.
+
+🎯 Objetivo: me tornar desenvolvedora Full Stack.
 
 ---
 
 ### 🛠 Tecnologias e Ferramentas
 
-| | Tecnologia | O que uso |
-|---|---|---|
-| ![HTML](https://skillicons.dev/icons?i=html) | **HTML5** | Semântica, acessibilidade, estrutura |
-| ![CSS](https://skillicons.dev/icons?i=css) | **CSS3** | Flexbox, Grid, Mobile First, responsividade |
-| ![JS](https://skillicons.dev/icons?i=js) | **JavaScript** | Manipulação de DOM, consumo de API, lógica |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) | **Tailwind CSS** | Estilização utilitária, design system |
-| ![Git](https://skillicons.dev/icons?i=git) | **Git** | Versionamento, commits, branches |
-| ![Figma](https://skillicons.dev/icons?i=figma) | **Figma** | Prototipação, referência de design |
-| ![Notion](https://skillicons.dev/icons?i=notion) | **Notion** | Organização e planejamento |
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,figma,notion)](https://skillicons.dev)
 
 ---
 
