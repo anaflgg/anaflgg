@@ -14,6 +14,8 @@ Curiosidade e consistência são o que me movem.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,supabase,git,vercel" />
 
+---
+
 ### 📊 Minhas Estatísticas
 
 <div align="center">
