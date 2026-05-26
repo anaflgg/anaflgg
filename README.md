@@ -19,10 +19,12 @@ Curiosidade e consistência são o que me movem.
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/anaflgg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaflgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflgg&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaflgg&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaflgg&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaflgg&theme=dracula"/>
 </div>
 
 ---
