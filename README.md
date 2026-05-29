@@ -6,7 +6,7 @@ Me importo com design, detalhes visuais e aquele toque criativo que faz um proje
 
 Curiosidade e consistência são o que me movem.
 
-🎯 Objetivo: me tornar desenvolvedora Full Stack.
+🎯 Objetivo: me tornar engenheira de software.
 
 ---
 
