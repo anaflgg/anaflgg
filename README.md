@@ -12,7 +12,7 @@ Curiosidade e consistência são o que me movem.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,supabase,git,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,git,vercel" />
 
 ---
 
